@@ -12,6 +12,7 @@ code（unsuccess）：https://github.com/Xharlie/Grid-GCN
 
 ### PointNet 
 Pointnet: Deep learning on point sets for 3d classification and segmentation  Charles R. Qi， Stanford University， CVPR2017
+
 paper：https://arxiv.org/pdf/1612.00593 
 
 supplement：https://openaccess.thecvf.com/content_cvpr_2017/supplemental/Qi_PointNet_Deep_Learning_2017_CVPR_supplemental.pdf.pdf
@@ -63,6 +64,7 @@ paper:https://arxiv.org/pdf/1907.00960.pdf
 PU-Net: Point Cloud Upsampling Network, Lequan Yu , The Chinese University of Hong Kong, CVPR2018
 
 paper:https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1248.pdf
+
 ## 2021.11
 ### Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 Chelsea Finn, University of California, PMLR 70, 2017
