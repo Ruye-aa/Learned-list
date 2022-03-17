@@ -185,3 +185,10 @@ paper:https://arxiv.org/pdf/2201.12094.pdf
 
 code:https://github.com/zhulf0804/NgeNet
 
+### AdaLAM
+AdaLAM: Revisiting Handcrafted Outlier Detection
+Luca Cavalli , Viktor Larsson ,  ETH Zurich, Switzerland ,  arxiv 2020
+
+paper:https://arxiv.org/abs/2006.04250
+
+code:https://github.com/cavalli1234/AdaLAM
