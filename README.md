@@ -192,3 +192,13 @@ Luca Cavalli , Viktor Larsson ,  ETH Zurich, Switzerland ,  arxiv 2020
 paper:https://arxiv.org/abs/2006.04250
 
 code:https://github.com/cavalli1234/AdaLAM
+
+### PointDSC
+Pointdsc: Robust point cloud registration using deep spatial consistency
+Xuyang Bai , Hong Kong University of Science and Technology , CVPR 2021
+
+paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_PointDSC_Robust_Point_Cloud_Registration_Using_Deep_Spatial_Consistency_CVPR_2021_paper.pdf
+
+code:https://github.com/XuyangBai/PointDSC
+
+supplement:https://openaccess.thecvf.com/content/CVPR2021/supplemental/Bai_PointDSC_Robust_Point_CVPR_2021_supplemental.pdf
