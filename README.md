@@ -197,7 +197,7 @@ code:https://github.com/cavalli1234/AdaLAM
 Pointdsc: Robust point cloud registration using deep spatial consistency
 Xuyang Bai , Hong Kong University of Science and Technology , CVPR 2021
 
-paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_PointDSC_Robust_Point_Cloud_Registration_Using_Deep_Spatial_Consistency_CVPR_2021_paper.pdf
+paper：https://arxiv.org/pdf/2103.05465
 
 code:https://github.com/XuyangBai/PointDSC
 
