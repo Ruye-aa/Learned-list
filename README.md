@@ -202,3 +202,6 @@ paper：https://arxiv.org/pdf/2103.05465
 code:https://github.com/XuyangBai/PointDSC
 
 supplement:https://openaccess.thecvf.com/content/CVPR2021/supplemental/Bai_PointDSC_Robust_Point_CVPR_2021_supplemental.pdf
+
+### Deep learning based point cloud registration: an overview
+Z Zhang,Y Dai , School of Electronics and Information,Northwestern Polytechnical University , Virtual Reality & Intelligent Hardware, 2020
