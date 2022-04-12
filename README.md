@@ -1,8 +1,7 @@
 # Learned-list
 
 ## 2021.10 以前
-### GGCN 
-Grid-gcn for fast and scalable point cloud learning 
+### GGCN: Grid-gcn for fast and scalable point cloud learnin. 
 Xu Q, University of Southern California.  CVPR2020
 
 paper:https://arxiv.org/pdf/1912.02984v4.pdf
@@ -11,8 +10,7 @@ supplement：https://xharlie.github.io/papers/GGCN_supCamReady.pdf
 
 code（unsuccess）：https://github.com/Xharlie/Grid-GCN 
 
-### PointNet 
-Pointnet: Deep learning on point sets for 3d classification and segmentation  
+### PointNet: Pointnet: Deep learning on point sets for 3d classification and segmentation.
 Charles R. Qi， Stanford University， CVPR2017
 
 paper：https://arxiv.org/pdf/1612.00593 
@@ -21,8 +19,7 @@ supplement：https://openaccess.thecvf.com/content_cvpr_2017/supplemental/Qi_Poi
 
 Code：https://github.com/yanx27/Pointnet_Pointnet2_pytorch
 
-### PointNet++
-Pointnet++: Deep hierarchical feature learning on point sets in a metric space 
+### PointNet++: Deep hierarchical feature learning on point sets in a metric space 
 Charles R. Qi， Stanford University，NIPs2017
 
 paper：https://arxiv.org/pdf/1706.02413.pdf
@@ -30,16 +27,14 @@ paper：https://arxiv.org/pdf/1706.02413.pdf
 Code：（same as pointnet）
 
 ## 2021.10
-### PointCNN
-PointCNN: Convolution On X -Transformed Points， 
+### PointCNN: Convolution On X -Transformed Points， 
 Yangyan Li， Rui Bu†， Shandong University， NIPs 2018
 
 paper：https://arxiv.org/pdf/1801.07791.pdf%20http://arxiv.org/abs/1801.07791.pdf
 
 code：https://github.com/hxdengBerkeley/PointCNN.Pytorch
 
-### PointAugment
-PointAugment: an Auto-Augmentation Framework for Point Cloud Classification，
+### PointAugment: an Auto-Augmentation Framework for Point Cloud Classification，
 Ruihui Li，The Chinese University of Hong Kong，CVPR2020
 
 paper：https://arxiv.org/pdf/2002.10876.pdf
@@ -48,16 +43,14 @@ supplement：https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Li_Poi
 
 code：https://github.com/liruihui/PointAugment
 
-### PointConv
-PointConv: Deep Convolutional Networks on 3D Point Clouds， 
+### PointConv: Deep Convolutional Networks on 3D Point Clouds， 
 Wenxuan Wu, Oregon State University  CVPR2019
 
 paper：https://arxiv.org/pdf/1811.07246.pdf
 
 code（not implement）：https://github.com/DylanWusee/pointconv_pytorch
 
-### RSCNN
-Relation-Shape Convolutional Neural Network for Point Cloud Analysis, 
+### RSCNN   Relation-Shape Convolutional Neural Network for Point Cloud Analysis, 
 Yongcheng Liu, 自动化所，CVPR2019
 
 paper:https://arxiv.org/pdf/1904.07601.pdf
@@ -67,8 +60,8 @@ Eric-Tuan Le, Iasonas Kokkinos , University College London, CVPR2020
 
 paper:https://arxiv.org/pdf/1907.00960.pdf
 
-### PU-Net
-PU-Net: Point Cloud Upsampling Network, Lequan Yu , The Chinese University of Hong Kong, CVPR2018
+### PU-Net: Point Cloud Upsampling Network, 
+Lequan Yu , The Chinese University of Hong Kong, CVPR2018
 paper:https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1248.pdf
 
 ## 2021.11
@@ -98,14 +91,12 @@ paper：https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transfo
 
 code：same as PCT
 
-### MAE
-Masked Autoencoders Are Scalable Vision Learners， 
+### MAE   Masked Autoencoders Are Scalable Vision Learners， 
 Kaiming He， Facebook AI Research (FAIR)， CVPR2022
 
 paper:https://arxiv.org/pdf/2111.06377.pdf?ref=https://githubhelp.com
 
-### CoFiNet
-CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration, 
+### CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration, 
 Hao Yu, Technical University of Munich, NIPs2021
 
 paper:https://arxiv.org/pdf/2110.14076.pdf
@@ -113,30 +104,27 @@ paper:https://arxiv.org/pdf/2110.14076.pdf
 code:https://github.com/haoyu94/Coarse-to-fine-correspondences
 
 ## 2021.12
-### KPConv
-KPConv: Flexible and deformable convolution for point clouds, 
+### KPConv: Flexible and deformable convolution for point clouds, 
 Hugues Thomas, Mines ParisTech, ICCV2019
 
 paper: https://par.nsf.gov/servlets/purl/10177957
 
 code: https://github.com/HuguesTHOMAS/KPConv
 
-### PCAM
-PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds, 
+### PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds, 
 Anh-Quan Cao,Valeo.ai Paris France , ICCV2021
 
 paper:https://arxiv.org/pdf/2110.01269.pdf
 
 supplement:https://openaccess.thecvf.com/content/ICCV2021/supplemental/Cao_PCAM_Product_of_ICCV_2021_supplemental.pdf
 
-### Lepard
-Lepard: Learning partial point cloud matching in rigid and deformable scenes, 
+### Lepard: Learning partial point cloud matching in rigid and deformable scenes, 
 Yang Li, The University of Tokyo
 
 paper:https://arxiv.org/pdf/2111.12591.pdf
 
 ## 2022.1
-Registration of 3D Point Clouds with Low Overlap 
+### Registration of 3D Point Clouds with Low Overlap 
 Shengyu Huang(same as PREDATOR),  ETH Zürich, Master Thesis
 
 paper：https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/Student_Theses/MA_Shengyu%20Huang.pdf
@@ -151,16 +139,14 @@ supplement:https://openaccess.thecvf.com/content/CVPR2021/supplemental/Huang_Pre
 
 code:https://github.com/overlappredator/OverlapPredator
 
-### DCP
-Deep Closest Point: Learning Representations for Point Cloud Registration Yue
+### DCP   Deep Closest Point: Learning Representations for Point Cloud Registration Yue
 Yue Wang, Justin M. Solomon , Massachusetts Institute of Technology, ICCV 2019
 
 paper:https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Closest_Point_Learning_Representations_for_Point_Cloud_Registration_ICCV_2019_paper.pdf
 
 supplement:https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Wang_Deep_Closest_Point_ICCV_2019_supplemental.pdf
 
-### ROPNet
-POINT CLOUD REGISTRATION USING REPRESENTATIVE OVERLAPPING POINTS
+### ROPNet    POINT CLOUD REGISTRATION USING REPRESENTATIVE OVERLAPPING POINTS
 Lifa Zhu , DeepGlint ,  ICCV Workshop 2021
 
 paper:https://arxiv.org/pdf/2107.02583.pdf?ref=https://githubhelp.com
@@ -168,44 +154,38 @@ paper:https://arxiv.org/pdf/2107.02583.pdf?ref=https://githubhelp.com
 code:https://github.com/zhulf0804/ROPNet
 
 ## 2022.3
-### PTRNet
-Global Feature and Local Feature Encoding for Point Cloud Registration
+### PTRNet    Global Feature and Local Feature Encoding for Point Cloud Registration
 Cuixia Li ,  Zhengzhou University , MDPI 2022
 
 paper:https://www.mdpi.com/2076-3417/12/3/1741/pdf
 
-### GeoTransformer
-Geometric Transformer for Fast and Robust Point Cloud Registration 
+### GeoTransformer    Geometric Transformer for Fast and Robust Point Cloud Registration 
 Zheng Qin , 1National University of Defense Technology , arxiv 2022
 
 paper:https://arxiv.org/pdf/2202.06688
 
 code:https://github.com/qinzheng93/GeoTransformer
 
-### DIT
-Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction
+### DIT   Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction
 Guangyan Chen , Beijing Institute of Technology , arxiv 2022
 
 paper:https://arxiv.org/pdf/2112.09385.pdf
 
-### NegNet
-Neighborhood-aware Geometric Encoding Network for Point Cloud Registration
+### NegNet    Neighborhood-aware Geometric Encoding Network for Point Cloud Registration
 Lifa Zhu , DeepGlint ,  arxiv 2022
 
 paper:https://arxiv.org/pdf/2201.12094.pdf
 
 code:https://github.com/zhulf0804/NgeNet
 
-### AdaLAM
-AdaLAM: Revisiting Handcrafted Outlier Detection
+### AdaLAM: Revisiting Handcrafted Outlier Detection
 Luca Cavalli , Viktor Larsson ,  ETH Zurich, Switzerland ,  arxiv 2020
 
 paper:https://arxiv.org/abs/2006.04250
 
 code:https://github.com/cavalli1234/AdaLAM
 
-### PointDSC
-Pointdsc: Robust point cloud registration using deep spatial consistency
+### PointDSC: Robust point cloud registration using deep spatial consistency
 Xuyang Bai , Hong Kong University of Science and Technology , CVPR 2021 
 
 paper：https://arxiv.org/pdf/2103.05465
@@ -220,14 +200,12 @@ Z Zhang,Y Dai , Northwestern Polytechnical University , Virtual Reality & Intell
 paper:https://www.sciencedirect.com/science/article/pii/S2096579620300383/pdf?md5=ce235b96e6d7d0e856c9ceac5860317b&pid=1-s2.0-S2096579620300383-main.pdf
 
 ## 2022.4
-### FPFH
-Fast point feature histograms (fpfh) for 3d registration.
+### FPFH    Fast point feature histograms (fpfh) for 3d registration.
 Radu Bogdan Rusu , Intelligent Autonomous Systems, Technische Universitat M¨ unchen , ICRA 2009
 
 paper:https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.3710&rep=rep1&type=pdf
 
-### fcgf
-Fully convolutional geometric features
+### fcgf  Fully convolutional geometric features
 Choy C, Park J, Koltun V. ICCV 2019
 
 paper:https://openaccess.thecvf.com/content_ICCV_2019/papers/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.pdf
