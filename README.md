@@ -205,9 +205,27 @@ Radu Bogdan Rusu , Intelligent Autonomous Systems, Technische Universitat M¨ un
 
 paper:https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.3710&rep=rep1&type=pdf
 
-### fcgf  Fully convolutional geometric features
+### FCGF  Fully convolutional geometric features
 Choy C, Park J, Koltun V. ICCV 2019
 
 paper:https://openaccess.thecvf.com/content_ICCV_2019/papers/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.pdf
 
 code:https://github.com/chrischoy/FCGF
+
+### ViT    AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+Alexey Dosovitskiy⇤, Lucas Beyer⇤ ,  Google Research Brain Team , ICLR 2021
+
+paper:https://openreview.net/pdf?id=YicbFdNTTy
+
+code:https://github.com/lucidrains/vit-pytorch
+
+video:https://www.bilibili.com/video/BV15P4y137jb?spm_id_from=333.337.search-card.all.click
+
+### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+Ze Liu1,2†* Yutong Lin1,3†*  ,  Microsoft Research Asia  ,  ICCV 2021 best paper
+
+paper: https://arxiv.org/pdf/2103.14030.pdf
+
+code:https://github.com/microsoft/Swin-Transformer
+
+video:https://www.bilibili.com/video/BV13L4y1475U/?spm_id_from=333.788
