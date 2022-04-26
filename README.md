@@ -229,3 +229,10 @@ paper: https://arxiv.org/pdf/2103.14030.pdf
 code:https://github.com/microsoft/Swin-Transformer
 
 video:https://www.bilibili.com/video/BV13L4y1475U/?spm_id_from=333.788
+
+### Masknet++: Inlier/outlier identification for two point clouds
+Ruqin Zhou , Hanyun Wang , Wuhan University , Computers & Graphics 2022
+
+paper:https://doi.org/10.1016/j.cag.2022.01.008
+
+code:https://github.com/zhouruqin/MaskNet2
