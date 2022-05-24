@@ -247,8 +247,13 @@ code:https://github.com/zhouruqin/MaskNet2
 
 ## 2022.5
 ### SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration
-Zhi Chen   ，  Huazhong University of Science and Technology
+Zhi Chen   ，  Huazhong University of Science and Technology   ，   CVPR 2022
 
 paper:https://arxiv.org/abs/2203.14453
 
 code:https://github.com/ZhiChen902/SC2-PCR
+
+### Feature Interactive Representation for Point Cloud Registration
+Wu Bingli ， Ma Jie  ，   Huazhong University of Science and Technology   ,  ICCV 2021
+
+paper:https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Feature_Interactive_Representation_for_Point_Cloud_Registration_ICCV_2021_paper.pdf
