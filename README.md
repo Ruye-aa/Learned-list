@@ -254,6 +254,13 @@ paper:https://arxiv.org/abs/2203.14453
 code:https://github.com/ZhiChen902/SC2-PCR
 
 ### Feature Interactive Representation for Point Cloud Registration
-Wu Bingli ， Ma Jie  ，   Huazhong University of Science and Technology   ,  ICCV 2021
+Wu Bingli, Ma Jie ,  Huazhong University of Science and Technology ,  ICCV 2021
 
 paper:https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Feature_Interactive_Representation_for_Point_Cloud_Registration_ICCV_2021_paper.pdf
+
+### REGTR: End-to-end Point Cloud Correspondences with Transformers
+Zi Jian Yew, Gim Hee Lee, National University of Singapore ，CVPR2022
+
+paper:https://arxiv.org/pdf/2203.14517.pdf
+
+code:https://github.com/yewzijian/RegTR
