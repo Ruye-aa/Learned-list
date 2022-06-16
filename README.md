@@ -266,9 +266,18 @@ paper:https://arxiv.org/pdf/2203.14517.pdf
 code:https://github.com/yewzijian/RegTR
 
 ## 2022.6
-Point Cloud Completion by Skip-attention Network with Hierarchical Folding
+### Point Cloud Completion by Skip-attention Network with Hierarchical Folding
 X Wen, T Li   , School of Software, BNRist, Tsinghua University   , CVPR 2020
 
 paper:https://arxiv.org/pdf/2005.03871
 
 supplementhttps://openaccess.thecvf.com/content_CVPR_2020/supplemental/Wen_Point_Cloud_Completion_CVPR_2020_supplemental.pdf
+
+### RCP：Recurrent Closest Point for Point Cloud
+Xiaodong Gu1,Chengzhou Tang2,    Alibaba Group1,Simon Fraser University2  ,  CVPR2022
+
+paper:https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_RCP_Recurrent_Closest_Point_for_Point_Cloud_CVPR_2022_paper.pdf
+
+code:https://github.com/gxd1994/RCP
+
+
