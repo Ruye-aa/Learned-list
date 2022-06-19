@@ -281,4 +281,10 @@ paper:https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_RCP_Recurrent_Clo
 
 code:https://github.com/gxd1994/RCP
 
+### Point cloud completion using multiscale feature fusion and cross-regional attention
+Hang Wu， Shanghai Jiao Tong University ,  Image and Vision Computing(CCF C) 2021
+
+paper:https://www.sciencedirect.com/science/article/abs/pii/S0262885621000986
+
+
 
