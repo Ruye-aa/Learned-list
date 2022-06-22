@@ -286,5 +286,20 @@ Hang Wu， Shanghai Jiao Tong University ,  Image and Vision Computing(CCF C) 20
 
 paper:https://www.sciencedirect.com/science/article/abs/pii/S0262885621000986
 
+### DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation
+Jeong Joon Park， University of Washington/Facebook Reality Labs  ，    CVPR 2019
+
+paper:https://arxiv.org/pdf/1901.05103
+
+code:https://github.com/facebookresearch/DeepSDF
+
+### Curriculum DeepSDF
+Yueqi Duan1 , Haidong Zhu2  ,  1Stanford University , 2University of Southern California ,   ECCV 2020
+
+paper:https://3dvar.com/Duan2020Curriculum.pdf
+
+code:https://github.com/haidongz-usc/Curriculum-DeepSDF
+
+
 
 
