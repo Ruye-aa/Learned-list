@@ -300,6 +300,19 @@ paper:https://3dvar.com/Duan2020Curriculum.pdf
 
 code:https://github.com/haidongz-usc/Curriculum-DeepSDF
 
+## 2022.7
+### DCGAN：UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS
+Alec Radford & Luke Metz， indico Research ，  ICLR 2016
+
+paper:https://arxiv.org/pdf/1511.06434.pdf%C3
+
+code:https://github.com/eriklindernoren/PyTorch-GAN
+
+### PU-Transformer: Point Cloud Upsampling Transformer
+Shi Qiu, Saeed Anwar,    Australian National University,   CVPR 2022
+
+paper:https://arxiv.org/pdf/2111.12242.pdf
+
 
 
 
