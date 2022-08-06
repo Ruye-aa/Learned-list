@@ -330,7 +330,32 @@ paper:https://arxiv.org/pdf/1611.06355
 
 code:https://github.com/Guim3/IcGAN
 
+## 2022.8
+### LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling
+Xu Wang,   Beijing Jiaotong University,     arxiv 2022.2
 
+paper:https://arxiv.org/pdf/2202.06263
+
+### Gan inversion: A survey
+Weihao Xia, Yulun Zhang,      Tsinghua University,      IEEE Transactions on Pattern Analysis and Machine Intelligence 2022
+
+paper:https://arxiv.org/pdf/2101.05278.pdf
+
+code:https://github.com/weihaox/awesome-gan-inversion
+
+### psp: Encoding in Style_a StyleGAN Encoder for Image-to-Image Translation
+Richardson E, Alaluf Y,    Penta-AI,      CVPR 2021
+
+paper:https://arxiv.org/abs/2008.00951
+
+code:https://github.com/eladrich/pixel2style2pixel.
+
+### HyperInverter: Improving StyleGAN Inversion via Hypernetwork
+Tan M. Dinh, Anh Tuan Tran,    VinAI Research, Hanoi, Vietnam     ,CVPR 2022
+
+paper: https://arxiv.org/abs/2112.00719
+
+code: https://di-mi-ta.github.io/HyperInverter
 
 
 
