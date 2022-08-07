@@ -357,5 +357,9 @@ paper: https://arxiv.org/abs/2112.00719
 
 code: https://di-mi-ta.github.io/HyperInverter
 
+### PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling
+Xu Yan, Chaoda Zheng,  Zhen Li∗,     The Chinese University of Hong Kong (Shenzhen),          CVPR2020
 
+paper:https://arxiv.org/pdf/2003.00492.pdf
 
+code:https://github.com/yanx27/PointASNL
