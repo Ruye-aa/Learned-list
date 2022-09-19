@@ -48,6 +48,12 @@ paper:https://arxiv.org/pdf/1912.03663
 
 code:https://github.com/itailang/SampleNet
 
+### MOPS-Net: A matrix optimization-driven network fortask-oriented 3D point cloud downsampling
+Y Qian, J Hou, Q Zhang, Y Zeng,     City University of Hong Kong   ,    arxiv 2020
+
+paper:https://arxiv.org/pdf/2005.00383.pdf
+
+
 ## 2022.8
 ### LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling
 Xu Wang,   Beijing Jiaotong University,     arxiv 2022.2
