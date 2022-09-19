@@ -363,3 +363,58 @@ Xu Yan, Chaoda Zheng,  Zhen Li∗,     The Chinese University of Hong Kong (Shen
 paper:https://arxiv.org/pdf/2003.00492.pdf
 
 code:https://github.com/yanx27/PointASNL
+
+### GANSpace: Discovering Interpretable GAN Controls
+Erik Härkönen1,2, Aaron Hertzmann2    ， 1Aalto University, 2Adobe Research, 3NVIDIA   ， Nips2020
+
+paper:https://proceedings.neurips.cc/paper/2020/file/6fe43269967adbb64ec6149852b5cc3e-Paper.pdf
+
+code:https://github.com/harskish/ganspace
+
+## 2022.9
+### CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions. 
+Rameen Abdal Peihao Zhu, John Femiani, Niloy Mitra, Peter Wonka,     KAUST, Miami University, UCL and Adobe Research,   SIGGRAPH 2022
+
+paper:https://dl.acm.org/doi/pdf/10.1145/3528233.3530747
+
+code:https://github.com/RameenAbdal/CLIP2StyleGAN
+
+### Stylefusion: A generative model for disentangling spatial segments
+Kafri O, Patashnik O, Alaluf Y,     The Blavatnik School of Computer Science, Tel Aviv University  ,  TOG 2022
+
+paper:https://arxiv.org/pdf/2107.07437.pdf
+
+code:https://github.com/OmerKafri/StyleFusion
+
+### Hierarchical Semantic Regularization of Latent Spaces in StyleGANs
+T Karmali, R Parihar, S Agrawal, H Rangwani,   Indian Institute of Science, Bengaluru, India   ,     SIGGRAPH 2022
+
+paper:https://arxiv.org/pdf/2208.03764.pdf
+
+code:https://sites.google.com/view/hsr-eccv22
+
+### Closed-Form Factorization of Latent Semantics in GANs
+Yujun Shen,Bolei Zhou,        The Chinese University of Hong Kong     ,    CVPR2021
+
+paper:https://arxiv.org/pdf/2007.06600
+
+code:https://github.com/genforce/sefa
+
+### Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs
+W Xia, Y Zhang, Y Yang,   Seoul National University,     ICLR 2022
+
+paper:https://arxiv.org/pdf/2106.06959.pdf
+
+### Learning to Sample
+Oren Dovrat, Itai Lang, Shai Avidan  ,   Tel-Aviv University   ,   CVPR2019
+
+paper:https://arxiv.org/pdf/1812.01659.pdf
+
+code:https://github.com/orendv/learning_to_sample
+
+### SampleNet: Differentiable Point Cloud Sampling
+Itai Lang, Asaf Manor, Shai Avidan   ,   Tel Aviv University   ,   CVPR2020
+
+paper:https://arxiv.org/pdf/1912.03663
+
+code:https://github.com/itailang/SampleNet
